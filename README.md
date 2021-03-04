@@ -6,6 +6,6 @@ In this repo I will upload all the GRIP tasks one by one total there are 8 Tasks
 
 ### objective: Predict the percentage of an student based on the no. of hours studied
 
-Features: Hours
-Target Variable: Score
+Features: Hours<br>
+Target Variable: Score<br>
 Model used: Linear Regression
